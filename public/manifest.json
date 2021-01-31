@@ -1,0 +1,8 @@
+{
+  "short_name": "Wolt App",
+  "name": "Wolt Summer 2021 Internship - Engineering Pre-assignment",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
