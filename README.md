@@ -6,6 +6,8 @@ The goal was to build a web page displaying restaurants in horizontal carousels.
 
 You can test the app at [https://annikajoever.github.io/wolt-summer-2021/](https://annikajoever.github.io/wolt-summer-2021/).
 
+This was my first time using TypeScript.
+
 React, TypeScript, Blurhash, Pure React Carousel
 
 ## How to use
