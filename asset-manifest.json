@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wolt-summer-2021/static/css/main.524c9015.chunk.css",
+    "main.js": "/wolt-summer-2021/static/js/main.d39d593c.chunk.js",
+    "main.js.map": "/wolt-summer-2021/static/js/main.d39d593c.chunk.js.map",
+    "runtime-main.js": "/wolt-summer-2021/static/js/runtime-main.b1bb0034.js",
+    "runtime-main.js.map": "/wolt-summer-2021/static/js/runtime-main.b1bb0034.js.map",
+    "static/css/2.136a4374.chunk.css": "/wolt-summer-2021/static/css/2.136a4374.chunk.css",
+    "static/js/2.d0e6b1a5.chunk.js": "/wolt-summer-2021/static/js/2.d0e6b1a5.chunk.js",
+    "static/js/2.d0e6b1a5.chunk.js.map": "/wolt-summer-2021/static/js/2.d0e6b1a5.chunk.js.map",
+    "static/js/3.1cd4e4f7.chunk.js": "/wolt-summer-2021/static/js/3.1cd4e4f7.chunk.js",
+    "static/js/3.1cd4e4f7.chunk.js.map": "/wolt-summer-2021/static/js/3.1cd4e4f7.chunk.js.map",
+    "index.html": "/wolt-summer-2021/index.html",
+    "static/css/2.136a4374.chunk.css.map": "/wolt-summer-2021/static/css/2.136a4374.chunk.css.map",
+    "static/css/main.524c9015.chunk.css.map": "/wolt-summer-2021/static/css/main.524c9015.chunk.css.map",
+    "static/js/2.d0e6b1a5.chunk.js.LICENSE.txt": "/wolt-summer-2021/static/js/2.d0e6b1a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1bb0034.js",
+    "static/css/2.136a4374.chunk.css",
+    "static/js/2.d0e6b1a5.chunk.js",
+    "static/css/main.524c9015.chunk.css",
+    "static/js/main.d39d593c.chunk.js"
+  ]
+}
