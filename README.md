@@ -12,7 +12,7 @@ React, TypeScript, Blurhash, Pure React Carousel
 
 1. Clone the repository
 `$ git clone https://github.com/AnnikaJoever/wolt-summer-2021.git`
-`$ cd wolt-summer-2021p`
+`$ cd wolt-summer-2021`
 2. Install dependencies
 `$ npm install`
 3. Run the app in the development mode `$ npm start` and open [http://localhost:3000](http://localhost:3000) to view it in the browser
