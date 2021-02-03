@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wolt-summer-2021/static/css/main.524c9015.chunk.css",
-    "main.js": "/wolt-summer-2021/static/js/main.d39d593c.chunk.js",
-    "main.js.map": "/wolt-summer-2021/static/js/main.d39d593c.chunk.js.map",
+    "main.js": "/wolt-summer-2021/static/js/main.2ea43d0e.chunk.js",
+    "main.js.map": "/wolt-summer-2021/static/js/main.2ea43d0e.chunk.js.map",
     "runtime-main.js": "/wolt-summer-2021/static/js/runtime-main.b1bb0034.js",
     "runtime-main.js.map": "/wolt-summer-2021/static/js/runtime-main.b1bb0034.js.map",
     "static/css/2.136a4374.chunk.css": "/wolt-summer-2021/static/css/2.136a4374.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.136a4374.chunk.css",
     "static/js/2.d0e6b1a5.chunk.js",
     "static/css/main.524c9015.chunk.css",
-    "static/js/main.d39d593c.chunk.js"
+    "static/js/main.2ea43d0e.chunk.js"
   ]
 }
